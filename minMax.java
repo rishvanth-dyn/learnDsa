@@ -1,4 +1,3 @@
-
 public class minMAx {
     public static void main(String args[]) {
         int arr[] = {10, 12, 3, 14, 15, 16};
