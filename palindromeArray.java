@@ -1,5 +1,5 @@
-public class palindrome {													@Rishvanth M
-	public static void main(String[] args) {
+package learing;
+public class palindrome {													
 		String s[] = new String[]{"madam", "Racecar", "and", "civic", "are", "level", "words" };
 		String ans[] = new String[s.length];
 
